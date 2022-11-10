@@ -1,2 +1,3 @@
-# fp_workshop_hklbgd
+# Functional Programming at Haklab Belgrade
+
 Materials for functional programming workshop at hklbgd.
