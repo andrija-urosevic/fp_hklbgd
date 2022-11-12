@@ -1,4 +1,4 @@
-# 01 --- Uvod u funkcionalno programiranje
+# 01 - Uvod u funkcionalno programiranje
 
 ## Motivacija
 
@@ -27,7 +27,7 @@ Pr. Dužina liste.
 
 ## Uvod u Haskell
 
-* GHC --- prevodioc, GHCi --- interaktivni mod
+* GHC - prevodioc, GHCi - interaktivni mod
 * Aritmetičke operacije: ``+, -, *, /``
 * Logičke operacije: ``&&, ||, not, ==, /=, <, <=, >, >=``
 * Primeri ugradjenih funkcija: ``min, max, succ``
