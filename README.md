@@ -1,3 +1,3 @@
-# Functional Programming at Haklab Belgrade
+# Funkcionalno programiranje u Haklab-u
 
-Materials for functional programming workshop at hklbgd.
+Materija sa radionice funkcionalnog programiranja u hklbgd-u.
